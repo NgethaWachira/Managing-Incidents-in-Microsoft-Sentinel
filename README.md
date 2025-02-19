@@ -71,7 +71,7 @@ To explain the process of triaging, investigating, and responding to incidents i
 - If you've decided to go with the options of collaborating with the team using Microsoft Teams, then create a dedicated channel in Microsoft Teams, invite all necessary team members to this channel, link to the incident in Sentinel (you can use a URL to the incident or share the summary), complete all tasks and ensure the incident is fully investigated, close the incident by returning to Microsoft Sentinel, and go to the specific incident that has been resolved, change the Incident Status to "Closed". Assign an appropriate classification to the incident - this is where you categorize the nature of the incident e.g. False Positive, True positive, undetermined etc. Add notes or a summary of the incident closure details, this can include what was done, how the issue was mitigated, and any lessons learned.
 
 <p align="center">
-  <img src="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel/blob/033d145f9372e02845449b9948851eccbd951b5b/Images/Closing%20an%20incident.PNGG" width="700" />
+  <img src="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel/blob/033d145f9372e02845449b9948851eccbd951b5b/Images/Closing%20an%20incident.PNG" width="700" />
 </p>
 
 
